@@ -1,0 +1,1 @@
+This is just me posting random WPF things I decide to make when I get bored. To run it, you can just clone it and open the .slnx file in visual studio with the NET Desktop Development workload installed. For now, it just has Snake with a random testing folder I was playing around with.
